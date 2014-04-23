@@ -2,7 +2,10 @@
   "name": "grunt-ogel",
   "version": "0.1.0",
   "description": "Grunt task for the ogel templating system",
-  "main": "./lib/grunt-ogel.js",
+  "files": [
+    "tasks",
+    "LICENSE"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/XpressiveCode/grunt-ogel.git"
